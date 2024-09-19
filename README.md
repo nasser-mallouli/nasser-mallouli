@@ -1,9 +1,11 @@
 # Nasser Mallouli
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasser-mallouli&label=Profile%20views&color=0e75b6&style=flat" alt="nasser-mallouli" /> </p>
 
 ## AI Engineer | Full Stack Developer | Innovative Problem Solver
 
 👋 Hello! I'm Nasser, a passionate AI engineer and full stack developer from Morocco, currently making waves in Germany's tech scene.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasser-mallouli&label=Profile%20views&color=0e75b6&style=flat" alt="nasser-mallouli" /> </p>
+
 
 ## 🚀 What I Bring to the Table
 
@@ -105,8 +107,6 @@ I'm always excited to discuss new opportunities, collaborations, or just chat ab
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasser-mallouli" alt="nasser-mallouli" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Support:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasser-mallouli&show_icons=true&locale=en&layout=compact" alt="nasser-mallouli" /></p>
