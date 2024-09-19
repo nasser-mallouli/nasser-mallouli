@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nasser Mallouli</h1>
-<h3 align="center">As a dedicated learner and problem-solver from morocco working in germany, I am constantly seeking new challenges to expand my knowledge and abilities. While I may not have all the answers, I am confident in my ability to find them through diligent research and collaboration with others. I thrive in dynamic environments where I can apply my creativity and critical thinking skills to tackle complex problems and drive meaningful change. With a passion for continuous learning and development, I am committed to personal and professional growth and am excited to see where my journey takes me next.</h3>
+# Nasser Mallouli
+
+## AI Engineer | Full Stack Developer | Innovative Problem Solver
+
+👋 Hello! I'm Nasser, a passionate AI engineer and full stack developer from Morocco, currently making waves in Germany's tech scene.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasser-mallouli&label=Profile%20views&color=0e75b6&style=flat" alt="nasser-mallouli" /> </p>
 
@@ -7,19 +10,92 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I currently work as an AI engineer in the field of object detection and using LLM in engineering manufacturing [at Pragmatic Industrie gmbH](at Pragmatic Industrie gmbH)
+## 🚀 What I Bring to the Table
 
-- 🌱 I’m currently learning **Improvemenet of Object detection, LLM**
+- 🧠 **AI Expertise**: Specializing in object detection and Large Language Models (LLM) for engineering manufacturing at Pragmatic Industrie GmbH.
+- 💻 **Full Stack Proficiency**: Skilled in ReactJS, NodeJS, .NET, and Django, currently contributing to healthcare tech solutions remotely.
+- 🌍 **Cross-Cultural Perspective**: Bringing unique insights from my Moroccan background to the German tech industry.
+- 📚 **Continuous Learner**: Always expanding my knowledge in cutting-edge technologies and methodologies.
+- 🛠️ **Problem-Solving Mindset**: Thriving on challenges and finding innovative solutions to complex problems.
 
-- I'm currently working also as a part-time Full Stack Developer since June 2023. This role allows me to contribute remotely from Nuremberg, Bavaria, Germany, where I utilize my expertise in JavaScript, Bootstrap, and several other technologies. [Growth Calculator](at Klinikum Nürnberg (Nord & Süd))
+## 💼 Professional Experience
 
-- 👨‍💻 All of my projects are available at [still on development](still on development)
+### AI Engineer
+**Pragmatic Industrie GmbH** | Oct 2023 - Present
+- Specializing in object detection and Large Language Models (LLM) applications for engineering manufacturing
+- Developing AI-driven solutions to optimize industrial processes and enhance productivity
+- Collaborating with cross-functional teams to integrate AI technologies into existing systems
 
-- 📝 I regularly write articles on [https://mallouliacademy.medium.com/](https://mallouliacademy.medium.com/)
+### Full Stack Developer (Part-time)
+**Klinikum Nürnberg (Nord & Süd)** | Jun 2023 - Present
+- Remote work from Nuremberg, Bavaria, Germany
+- Leading the development of the Growth Calculator project, utilizing JavaScript and Bootstrap
+- Implementing responsive and user-friendly interfaces for healthcare applications
+- Collaborating with medical professionals to ensure accurate and efficient data processing
 
-- 💬 Ask me about **ReactJs, NodeJs, .Net, Django**
+### Software Engineer
+**Pragmatic Industries GmbH** | Oct 2023 - Present
+- Developing innovative software solutions for industrial applications
+- Implementing best practices in software development and version control
+- Contributing to the design and architecture of scalable software systems
 
-- 📫 How to reach me **nassermallouli@gmail.com**
+### Master's Thesis Researcher
+**Pragmatic Minds GmbH** | May 2023 - Oct 2023
+- Conducted in-depth research on advanced AI applications in industrial settings
+- Developed and implemented novel algorithms for improved object detection
+- Presented findings and recommendations to senior management and stakeholders
+
+### Full-Stack Developer
+**Grammer AG** | Jun 2022 - Sep 2023
+- Developed and maintained full-stack applications for automotive industry solutions
+- Utilized ReactJS for front-end development and NodeJS for back-end services
+- Implemented RESTful APIs and integrated with various databases
+- Collaborated with UX/UI designers to create intuitive user interfaces
+
+## 🌟 Key Projects
+
+- **Growth Calculator**: Developed a sophisticated tool for healthcare professionals at Klinikum Nürnberg
+- **AI-Powered Object Detection System**: Implemented for manufacturing process optimization at Pragmatic Industrie GmbH
+- **Automotive UI/UX Enhancement**: Led front-end development for improved user interfaces at Grammer AG
+
+## 🛠 Skills
+
+- **Programming Languages**: JavaScript, Python, C#, .NET
+- **Web Technologies**: ReactJS, NodeJS, Django, Bootstrap, HTML5, CSS3
+- **AI & Machine Learning**: TensorFlow, PyTorch, Object Detection, LLM
+- **Database Management**: SQL, MongoDB, PostgreSQL
+- **DevOps**: Git, Docker, CI/CD pipelines
+- **Agile Methodologies**: Scrum, Kanban
+
+
+## 🌱 Current Focus
+
+- Enhancing object detection techniques
+- Exploring advanced applications of Large Language Models
+- Expanding full stack development skills
+
+## 📝 Thought Leadership
+
+I regularly share insights and learnings on [Medium](https://mallouliacademy.medium.com/), contributing to the tech community and showcasing my expertise.
+
+## 🤝 Why Work With Me?
+
+1. **Adaptability**: Quick to learn and adapt to new technologies and environments.
+2. **Cross-functional Collaboration**: Experienced in working with diverse teams across cultures.
+3. **Innovation Driver**: Constantly seeking new ways to apply AI and web technologies to solve real-world problems.
+4. **Result-Oriented**: Focused on delivering high-quality, impactful solutions.
+5. **Passionate Communicator**: Skilled at explaining complex technical concepts to diverse audiences.
+
+## 📫 Let's Connect!
+
+I'm always excited to discuss new opportunities, collaborations, or just chat about the latest in tech.
+
+- Email: nassermallouli@gmail.com
+- LinkedIn: [Nasser Mallouli](https://www.linkedin.com/in/nassermallouli/)
+  
+## Writing
+
+📝 I regularly write articles on [Medium](https://mallouliacademy.medium.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,3 +111,5 @@
 <h3 align="left">Support:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasser-mallouli&show_icons=true&locale=en&layout=compact" alt="nasser-mallouli" /></p>
 
+
+Feel free to reach out for collaborations or just a chat about technology and innovation!
